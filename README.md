@@ -1,2 +1,2 @@
 # react
-a fun open source react project
+an app to jot your thoughts
